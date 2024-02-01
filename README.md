@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fgardavaud
-- 👀 I’m interested in signal tratment, computed tomography, image quality metrics
+- 👀 I’m interested in signal treatment, computed tomography, image quality metrics
 - 🌱 I’m currently learning R, Matlab, Datascience.
 - 💞️ I’m looking to collaborate on miscellaenous topics be creative but in link with my interest field.
 - 📫 How to reach me by e-mail : francois.gardavaud@aphp.fr
